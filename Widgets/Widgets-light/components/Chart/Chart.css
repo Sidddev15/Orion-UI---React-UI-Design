@@ -1,0 +1,76 @@
+.chart-3 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  height: 40px;
+  overflow: hidden;
+  width: 114px;
+}
+
+.olumn-container {
+  height: 7px;
+  margin-left: -17px;
+  position: relative;
+  width: 149px;
+}
+
+.olumn {
+  align-items: flex-start;
+  border-radius: 100px;
+  display: flex;
+  height: 6px;
+  left: 12px;
+  min-width: 40px;
+  position: absolute;
+  top: 1px;
+  transform: rotate(1.57deg);
+}
+
+.overlap-group-4 {
+  height: 6px;
+  position: relative;
+  width: 40px;
+}
+
+.background-2 {
+  background-color: var(--link-water);
+  border-radius: 100px;
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 40px;
+}
+
+.progress-2 {
+  background-color: var(--rajah);
+  border-radius: 100px;
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 27px;
+}
+
+.olumn-1 {
+  align-items: flex-start;
+  border-radius: 100px;
+  display: flex;
+  height: 6px;
+  left: 24px;
+  min-width: 40px;
+  position: absolute;
+  top: 1px;
+  transform: rotate(1.57deg);
+}
+
+.progress-3 {
+  background-color: var(--rajah);
+  border-radius: 100px;
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+

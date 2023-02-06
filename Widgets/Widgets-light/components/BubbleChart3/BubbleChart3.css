@@ -1,0 +1,57 @@
+.bubble-chart {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  min-width: 230px;
+}
+
+.bubble-11 {
+  background: linear-gradient(180deg, rgb(134, 118, 255) 0%, rgb(117, 23, 248) 100%);
+  border-radius: 8.25px/8.5px;
+  height: 17px;
+  margin-top: 1.0px;
+  width: 16px;
+}
+
+.bubble-12 {
+  background: linear-gradient(180deg, rgb(134, 118, 255) 0%, rgb(117, 23, 248) 100%);
+  border-radius: 29.11px/30px;
+  height: 60px;
+  width: 58px;
+}
+
+.bubble-13 {
+  background: linear-gradient(180deg, rgb(134, 118, 255) 0%, rgb(117, 23, 248) 100%);
+  border-radius: 16.5px/17px;
+  height: 34px;
+  width: 33px;
+}
+
+.bubble-14 {
+  background: linear-gradient(180deg, rgb(255, 141.31, 162.78) 0%, rgb(253.94, 97.34, 126.91) 100%);
+  border-radius: 4.85px/5px;
+  height: 10px;
+  width: 10px;
+}
+
+.bubble-15 {
+  background: linear-gradient(180deg, rgb(255, 141.31, 162.78) 0%, rgb(253.94, 97.34, 126.91) 100%);
+  border-radius: 25.23px/26px;
+  height: 52px;
+  width: 50px;
+}
+
+.bubble-16 {
+  background: linear-gradient(180deg, rgb(255, 141.31, 162.78) 0%, rgb(253.94, 97.34, 126.91) 100%);
+  border-radius: 13.59px/14px;
+  height: 28px;
+  width: 27px;
+}
+
+.bubble-17 {
+  background: linear-gradient(180deg, rgb(255, 141.31, 162.78) 0%, rgb(253.94, 97.34, 126.91) 100%);
+  border-radius: 5.82px/6px;
+  height: 12px;
+  width: 12px;
+}
+

@@ -1,0 +1,115 @@
+.navigation-bar {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  min-height: 60px;
+  width: 1920px;
+}
+
+.flex-row {
+  align-items: center;
+  display: flex;
+  margin-top: 14px;
+  min-width: 1800px;
+}
+
+.logo {
+  align-items: flex-start;
+  display: flex;
+  gap: 11px;
+  height: 32px;
+  padding: 4px 5px;
+  width: 112px;
+}
+
+.logo-1 {
+  align-self: center;
+  height: 21px;
+  margin-bottom: 1.0px;
+  width: 21px;
+}
+
+.name-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.search {
+  align-items: center;
+  background-color: var(--selago);
+  border-radius: 8px;
+  display: flex;
+  height: 32px;
+  justify-content: flex-end;
+  margin-left: 228px;
+  min-width: 520px;
+  padding: 0 7px;
+}
+
+.icon {
+  height: 24px;
+  width: 24px;
+}
+
+.navbar {
+  align-items: flex-start;
+  display: flex;
+  gap: 84px;
+  height: 24px;
+  margin-left: 107px;
+  width: 571px;
+}
+
+.navbar-link-label {
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 75px;
+  white-space: nowrap;
+}
+
+.navbar-link-label-1 {
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 76px;
+  white-space: nowrap;
+}
+
+.navbar-link-label-2 {
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 93px;
+  white-space: nowrap;
+}
+
+.navbar-link-label-3 {
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.profile {
+  height: 24px;
+  margin-left: 188px;
+  width: 24px;
+}
+
+.option {
+  height: 24px;
+  margin-left: 26px;
+  width: 24px;
+}
+
+.tab {
+  background-color: #5756b3;
+  height: 3px;
+  margin-left: 524.0px;
+  width: 106px;
+}
+

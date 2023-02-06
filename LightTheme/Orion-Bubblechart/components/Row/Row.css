@@ -1,0 +1,82 @@
+.table-item {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  width: 230px;
+}
+
+.name-4 {
+  letter-spacing: 0.44px;
+  line-height: 20px;
+  margin-top: -0.5px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.amount-2 {
+  letter-spacing: 0.44px;
+  line-height: 20px;
+  margin-top: -1px;
+  opacity: 0.6;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.overlap-group-3 {
+  height: 21px;
+  position: relative;
+  width: 68px;
+}
+
+.column-4 {
+  background-color: var(--link-water);
+  border-radius: 1px;
+  height: 21px;
+  left: 0;
+  opacity: 0.7;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+.column-5 {
+  background-color: var(--link-water);
+  border-radius: 1px;
+  height: 21px;
+  left: 19px;
+  opacity: 0.7;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.column-6 {
+  background-color: var(--link-water);
+  border-radius: 1px;
+  height: 21px;
+  left: 35px;
+  opacity: 0.7;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.column-7 {
+  background-color: var(--link-water);
+  border-radius: 1px;
+  height: 21px;
+  left: 51px;
+  opacity: 0.7;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+.chart-1 {
+  height: 11px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 68px;
+}
+

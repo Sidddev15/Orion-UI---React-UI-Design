@@ -1,0 +1,204 @@
+.widget-l-size-global-statistic {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 20px;
+  box-shadow: 0px 2.77px 2.21px #6c49ac05 , 0px 6.65px 5.32px #6c49ac07 , 0px 12.52px 10.02px #6c49ac09 , 0px 22.34px 17.87px #6c49ac0b , 0px 41.78px 33.42px #6c49ac0d , 0px 100px 80px #6c49ac12;
+  display: flex;
+  flex-direction: column;
+  gap: 37px;
+  height: 528px;
+  overflow: hidden;
+  padding: 20px 0;
+  width: 1071px;
+}
+
+.header {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  gap: 24px;
+  height: 28px;
+  justify-content: flex-start;
+  position: relative;
+  width: 1011px;
+}
+
+.title-9 {
+  letter-spacing: 0.11px;
+  line-height: normal;
+  margin-top: -1px;
+  width: 451px;
+}
+
+.overlap-group6 {
+  height: 423px;
+  position: relative;
+  width: 1011px;
+}
+
+.chart-11 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  height: 423px;
+  left: 0;
+  min-width: 1011px;
+  position: absolute;
+  top: 0;
+}
+
+.y-axis {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 47px;
+  min-height: 379px;
+  width: 43px;
+}
+
+.x1k {
+  align-self: center;
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  margin-right: 11.75px;
+  margin-top: -1px;
+  opacity: 0.6;
+  white-space: nowrap;
+  width: 13px;
+}
+
+.number-2 {
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  opacity: 0.6;
+  white-space: nowrap;
+}
+
+.number-3 {
+  align-self: center;
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  margin-left: 3.56px;
+  opacity: 0.6;
+  white-space: nowrap;
+  width: 10px;
+}
+
+.x-axis {
+  align-items: flex-start;
+  display: flex;
+  gap: 56px;
+  min-width: 961px;
+  position: relative;
+}
+
+.x-axis-item {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  height: 423px;
+  overflow: hidden;
+  width: 29px;
+}
+
+.shape-1 {
+  height: 384px;
+  margin-left: 4.58px;
+  width: 1px;
+}
+
+.name-1 {
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  margin-right: 1.38px;
+  opacity: 0.6;
+  text-align: center;
+  white-space: nowrap;
+  width: 30px;
+}
+
+.may {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  height: 423px;
+  overflow: hidden;
+  width: 32px;
+}
+
+.shape-2 {
+  height: 384px;
+  margin-left: 3.43px;
+  width: 1px;
+}
+
+.name-2 {
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  margin-right: 0.8px;
+  opacity: 0.6;
+  text-align: center;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.jul {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  height: 423px;
+  padding: 0 0.4px;
+  width: 24px;
+}
+
+.shape {
+  height: 384px;
+  margin-right: 2.39px;
+  width: 1px;
+}
+
+.name-3 {
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  margin-left: 0.09px;
+  opacity: 0.6;
+  text-align: center;
+  white-space: nowrap;
+  width: 23px;
+}
+
+.name-4 {
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  margin-right: 0.47px;
+  opacity: 0.6;
+  text-align: center;
+  white-space: nowrap;
+  width: 31px;
+}
+
+.oct {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  height: 423px;
+  overflow: hidden;
+  width: 26px;
+}
+
+.name-5 {
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  margin-right: 1.19px;
+  opacity: 0.6;
+  text-align: center;
+  white-space: nowrap;
+  width: 30px;
+}
+

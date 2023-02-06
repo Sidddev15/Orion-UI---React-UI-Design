@@ -1,0 +1,37 @@
+.legend-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 3px;
+  height: 28px;
+  overflow: hidden;
+  width: 116px;
+}
+
+.shape-3 {
+  align-self: center;
+  background-color: #a46ce9;
+  border-radius: 6.9px;
+  height: 14px;
+  margin-left: -1px;
+  width: 14px;
+}
+
+.marketing-sales {
+  letter-spacing: 0.11px;
+  line-height: 27.6px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.legend-1.legend-2 .shape-3 {
+  background-color: var(--gargoyle-gas);
+}
+
+.legend-1.legend-3 .shape-3 {
+  background-color: #fc717d;
+}
+
+.legend-1.legend .shape-3 {
+  background-color: var(--blueberry);
+}
+

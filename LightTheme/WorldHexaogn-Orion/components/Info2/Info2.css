@@ -1,0 +1,38 @@
+.info-9 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  overflow: hidden;
+  padding: 0 21.5px;
+  width: 132px;
+}
+
+.value-1 {
+  align-items: flex-start;
+  display: flex;
+  width: 89px;
+}
+
+.value-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  height: 58px;
+  width: 89px;
+}
+
+.title-3 {
+  letter-spacing: 0.44px;
+  line-height: 20px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.value-3 {
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
+}
+

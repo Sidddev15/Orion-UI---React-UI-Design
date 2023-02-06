@@ -1,0 +1,67 @@
+.widget-m-size-bubble {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 2.77px 2.21px #6c49ac05 , 0px 6.65px 5.32px #6c49ac07 , 0px 12.52px 10.02px #6c49ac09 , 0px 22.34px 17.87px #6c49ac0b , 0px 41.78px 33.42px #6c49ac0d , 0px 100px 80px #6c49ac12;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 482px;
+  overflow: hidden;
+  width: 290px;
+}
+
+.graph-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-height: 192px;
+  padding: 20px 0;
+  position: relative;
+  width: 290px;
+}
+
+.info-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 72px;
+  position: relative;
+  width: 230px;
+}
+
+.overlap-group-19 {
+  height: 47px;
+  position: relative;
+  width: 230px;
+}
+
+.detail-2 {
+  left: 0;
+  letter-spacing: 0.40px;
+  line-height: 16px;
+  opacity: 0.6;
+  position: absolute;
+  top: 31px;
+  white-space: nowrap;
+  width: 230px;
+}
+
+.table-2 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: 280px;
+  margin-left: 3.5px;
+  overflow: hidden;
+  padding: 20px 0;
+  position: relative;
+  width: 283px;
+}
+

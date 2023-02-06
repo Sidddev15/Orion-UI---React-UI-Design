@@ -1,0 +1,31 @@
+.footer {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 1590px;
+  height: 38px;
+  left: 0;
+  min-width: 1920px;
+  padding: 10px 67px;
+  position: absolute;
+  top: 0;
+}
+
+.name-2,
+.description {
+  height: 16px;
+  letter-spacing: 1.50px;
+  line-height: 16px;
+  min-width: 168px;
+  white-space: nowrap;
+}
+
+.number {
+  height: 16px;
+  letter-spacing: 1.50px;
+  line-height: 16px;
+  min-width: 28px;
+  text-align: right;
+  white-space: nowrap;
+}
+

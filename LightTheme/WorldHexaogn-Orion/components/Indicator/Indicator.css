@@ -1,0 +1,35 @@
+.indicator {
+  align-items: center;
+  background-color: var(--malibu);
+  border-radius: 12px;
+  display: flex;
+  height: 40px;
+  min-width: 40px;
+  padding: 0 8px;
+}
+
+.icon-4 {
+  height: 24px;
+  width: 24px;
+}
+
+.indicator.indicator-1 {
+  background-color: #f8a243;
+}
+
+.indicator.indicator-2 {
+  background-color: #7bdda2;
+}
+
+.indicator.indicator-3 {
+  background-color: #ff7e7e;
+}
+
+.indicator.indicator-4 {
+  background-color: #e7a4ff;
+}
+
+.indicator.indicator-5 {
+  background-color: #659aff;
+}
+

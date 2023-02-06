@@ -1,0 +1,94 @@
+.mini-indicators-total-users {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+  height: 54px;
+  min-width: 235px;
+  position: relative;
+}
+
+.overlap-group13 {
+  height: 55px;
+  margin-top: -1px;
+  position: relative;
+  width: 177px;
+}
+
+.value {
+  align-items: flex-start;
+  display: flex;
+  gap: 6px;
+  height: 36px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 19px;
+  width: 177px;
+}
+
+.value-1 {
+  height: 36px;
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-top: -1px;
+  min-width: 42px;
+  white-space: nowrap;
+}
+
+.chart {
+  align-items: flex-end;
+  border-radius: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-height: 27px;
+  width: 131px;
+}
+
+.indicator {
+  height: 20px;
+  letter-spacing: 0.44px;
+  line-height: 20px;
+  margin-right: 2px;
+  margin-top: -1px;
+  min-width: 25px;
+  white-space: nowrap;
+}
+
+.overlap-group {
+  height: 6px;
+  margin-right: 2px;
+  position: relative;
+  width: 129px;
+}
+
+.background {
+  background-color: var(--link-water);
+  border-radius: 100px;
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 129px;
+}
+
+.progress {
+  background-color: var(--true-v);
+  border-radius: 100px;
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 96px;
+}
+
+.title-1 {
+  height: 24px;
+  left: 0;
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+

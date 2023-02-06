@@ -1,0 +1,24 @@
+.icon-1 {
+  align-items: flex-end;
+  background-color: var(--true-v);
+  border-radius: 20px;
+  display: flex;
+  height: 70px;
+  justify-content: flex-end;
+  min-width: 70px;
+  padding: 18px;
+}
+
+.activity {
+  height: 32px;
+  width: 32px;
+}
+
+.icon-1.icon-2 {
+  background-color: var(--malibu);
+}
+
+.icon-1.icon-3 {
+  background-color: #ff9066;
+}
+

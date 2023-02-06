@@ -1,0 +1,50 @@
+.widget-m-size-circle-chart {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 2.77px 2.21px #6c49ac05 , 0px 6.65px 5.32px #6c49ac07 , 0px 12.52px 10.02px #6c49ac09 , 0px 22.34px 17.87px #6c49ac0b , 0px 41.78px 33.42px #6c49ac0d , 0px 100px 80px #6c49ac12;
+  display: flex;
+  gap: 19px;
+  height: 96px;
+  min-width: 290px;
+  padding: 18.5px 28.5px;
+  position: relative;
+}
+
+.overlap-group-15 {
+  align-self: flex-end;
+  height: 59px;
+  margin-bottom: 0;
+  position: relative;
+  width: 59px;
+}
+
+.chart_bg-3 {
+  border-radius: 26.52px;
+  height: 53px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  transform: rotate(1.57deg);
+  width: 53px;
+}
+
+.progress-8 {
+  border-radius: 28px;
+  height: 56px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  transform: rotate(-3.14deg);
+  width: 56px;
+}
+
+.icon-2 {
+  background-size: 100% 100%;
+  height: 12px;
+  left: 24px;
+  position: absolute;
+  top: 14px;
+  width: 12px;
+}
+

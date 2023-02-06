@@ -1,0 +1,49 @@
+.icon-12-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 7px;
+  display: flex;
+  height: 14px;
+  min-width: 14px;
+  padding: 0 5px;
+}
+
+.icon-13 {
+  background-color: #17d64c;
+  border-radius: 2px;
+  height: 4px;
+  width: 4px;
+}
+
+.icon-12-1.icon-12-2 .icon-13 {
+  background-color: #ff6a2a;
+}
+
+.icon-12-1.icon-12-3 .icon-13 {
+  background-color: #ae2aff;
+}
+
+.icon-12-1.icon-12-4 .icon-13 {
+  background-color: #20dfb1;
+}
+
+.icon-12-1.icon-12-5 .icon-13 {
+  background-color: #ff2ab7;
+}
+
+.icon-12-1.icon-12-6 .icon-13 {
+  background-color: #ffc329;
+}
+
+.icon-12-1.icon-12-7 .icon-13 {
+  background-color: #957ae1;
+}
+
+.icon-12-1.icon-12-8 .icon-13 {
+  background-color: #0050c8;
+}
+
+.icon-12-1.icon-12 .icon-13 {
+  background-color: #e3e3e3;
+}
+

@@ -1,0 +1,19 @@
+.icon,
+.chart-1 {
+  align-items: center;
+  align-self: center;
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px 2.77px 2.21px #6c49ac05 , 0px 6.65px 5.32px #6c49ac07 , 0px 12.52px 10.02px #6c49ac09 , 0px 22.34px 17.87px #6c49ac0b , 0px 41.78px 33.42px #6c49ac0d , 0px 100px 80px #6c49ac12;
+  display: flex;
+  height: 46px;
+  min-width: 46px;
+  padding: 0 11px;
+}
+
+.icon-eye,
+.activity {
+  height: 24px;
+  width: 24px;
+}
+

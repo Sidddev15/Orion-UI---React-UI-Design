@@ -1,0 +1,87 @@
+.mini-indicators-visitors {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  gap: 12px;
+  height: 54px;
+  min-width: 162px;
+}
+
+.overlap-group-10 {
+  align-items: center;
+  align-self: center;
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px 2.77px 2.21px #6c49ac05 , 0px 6.65px 5.32px #6c49ac07 , 0px 12.52px 10.02px #6c49ac09 , 0px 22.34px 17.87px #6c49ac0b , 0px 41.78px 33.42px #6c49ac0d , 0px 100px 80px #6c49ac12;
+  display: flex;
+  height: 46px;
+  min-width: 46px;
+  padding: 0 11px;
+}
+
+.icon-eye-1 {
+  height: 24px;
+  width: 24px;
+}
+
+.overlap-group9 {
+  height: 55px;
+  margin-top: -1px;
+  position: relative;
+  width: 103px;
+}
+
+.value-10 {
+  align-items: flex-start;
+  display: flex;
+  gap: 4px;
+  height: 36px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 19px;
+  width: 103px;
+}
+
+.value-11 {
+  height: 36px;
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-top: -1px;
+  min-width: 58px;
+  white-space: nowrap;
+}
+
+.indicator-5 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 2px;
+  min-width: 43px;
+}
+
+.down {
+  align-self: center;
+  height: 8px;
+  margin-top: 2.0px;
+  width: 14px;
+}
+
+.number-1 {
+  height: 28px;
+  letter-spacing: 0.44px;
+  line-height: 20px;
+  margin-top: -1px;
+  width: 25px;
+}
+
+.title-8 {
+  height: 24px;
+  left: 0;
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+

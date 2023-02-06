@@ -1,0 +1,65 @@
+.chart-5 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 34px;
+  overflow: hidden;
+  width: 108px;
+}
+
+.chart-4 {
+  align-items: flex-start;
+  border-radius: 100px;
+  display: flex;
+  margin-left: 0;
+  min-width: 108px;
+}
+
+.chart-container {
+  height: 6px;
+  position: relative;
+  width: 108px;
+}
+
+.chart_bg {
+  background-color: var(--link-water);
+  border-radius: 100px;
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 108px;
+}
+
+.chart-6 {
+  background-color: var(--true-v);
+  border-radius: 100px;
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 95px;
+}
+
+.chart-7 {
+  background-color: var(--wild-watermelon);
+  border-radius: 100px;
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.chart-8 {
+  background-color: var(--rajah);
+  border-radius: 100px;
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 73px;
+}
+

@@ -1,0 +1,14 @@
+.title-14 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  width: 230px;
+}
+
+.name-20 {
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+

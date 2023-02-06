@@ -1,0 +1,54 @@
+.mini-indicators-dynamics {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+  margin-left: 149px;
+  min-width: 378px;
+  position: relative;
+}
+
+.overlap-group11 {
+  height: 54px;
+  margin-top: -1px;
+  position: relative;
+  width: 320px;
+}
+
+.indicator-1 {
+  height: 20px;
+  left: 291px;
+  letter-spacing: 0.44px;
+  line-height: 20px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.chart-2 {
+  height: 29px;
+  left: 48px;
+  position: absolute;
+  top: 16px;
+  width: 272px;
+}
+
+.value-4 {
+  height: 36px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.title-3 {
+  height: 24px;
+  left: 0;
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+

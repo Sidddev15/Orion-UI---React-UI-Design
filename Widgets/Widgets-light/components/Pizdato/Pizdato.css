@@ -1,0 +1,147 @@
+.pizdato {
+  align-items: flex-start;
+  background-color: #f6f7fb;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1911px;
+  padding: 124px 100px;
+  width: 2519px;
+}
+
+.logo {
+  align-items: flex-start;
+  display: flex;
+  gap: 17px;
+  height: 39px;
+  margin-left: 6px;
+  min-width: 170px;
+}
+
+.ellipse-4 {
+  align-self: flex-end;
+  height: 38px;
+  width: 38px;
+}
+
+.name {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.66px;
+  min-height: 37px;
+}
+
+.title {
+  letter-spacing: -1.75px;
+  line-height: 118px;
+  margin-top: 57px;
+  white-space: nowrap;
+}
+
+.span-1 {
+  color: #b8b8dd;
+  font-family: var(--font-family-poppins);
+  font-size: 150px;
+  font-weight: 300;
+}
+
+.mini-indicators-container {
+  align-items: flex-start;
+  display: flex;
+  height: 54px;
+  margin-left: 31px;
+  margin-top: 180px;
+  min-width: 1479px;
+  position: relative;
+}
+
+.mini-indicators-container-1 {
+  align-items: flex-end;
+  display: flex;
+  gap: 141px;
+  height: 57px;
+  margin-left: 31px;
+  margin-top: 47px;
+  min-width: 1474px;
+  position: relative;
+}
+
+.flex-row {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 36px;
+  height: 982px;
+  margin-right: 1px;
+  margin-top: 98px;
+  min-width: 2293px;
+}
+
+.flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 52px;
+  min-height: 982px;
+  position: relative;
+  width: 1071px;
+}
+
+.flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 402px;
+  min-width: 961px;
+  position: relative;
+}
+
+.flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 35px;
+  min-height: 402px;
+  position: relative;
+  width: 290px;
+}
+
+.widget-s-size-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 98px;
+  height: 96px;
+  margin-top: 55px;
+  min-width: 290px;
+  position: relative;
+}
+
+.ind-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  margin-left: 56px;
+  min-height: 401px;
+  position: relative;
+  width: 290px;
+}
+
+.flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 639px;
+  min-width: 1186px;
+  position: relative;
+}
+
+.with-i-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 53px;
+  margin-left: 42px;
+  min-height: 605px;
+  position: relative;
+  width: 290px;
+}
+

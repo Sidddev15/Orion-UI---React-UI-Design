@@ -1,0 +1,283 @@
+.widget-m-size-combin {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 2.77px 2.21px #6c49ac05 , 0px 6.65px 5.32px #6c49ac07 , 0px 12.52px 10.02px #6c49ac09 , 0px 22.34px 17.87px #6c49ac0b , 0px 41.78px 33.42px #6c49ac0d , 0px 100px 80px #6c49ac12;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: 401px;
+  overflow: hidden;
+  padding: 20px 0;
+  width: 290px;
+}
+
+.graph {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  height: 246px;
+  overflow: hidden;
+  width: 290px;
+}
+
+.overlap-group1-3 {
+  height: 150px;
+  margin-right: 0;
+  margin-top: -2px;
+  position: relative;
+  width: 150px;
+}
+
+.overlap-group-12 {
+  height: 150px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 150px;
+}
+
+.chart_bg-1 {
+  background-color: var(--mirage-2);
+  border-radius: 69.55px;
+  height: 139px;
+  left: 6px;
+  position: absolute;
+  top: 5px;
+  transform: rotate(1.57deg);
+  width: 139px;
+}
+
+.chart_bg-2 {
+  background-color: var(--mirage-2);
+  border-radius: 51.5px;
+  height: 103px;
+  left: 24px;
+  position: absolute;
+  top: 23px;
+  transform: rotate(1.57deg);
+  width: 103px;
+}
+
+.progress-1-1 {
+  border-radius: 54px;
+  height: 108px;
+  left: 21px;
+  position: absolute;
+  top: 21px;
+  transform: rotate(1.57deg);
+  width: 108px;
+}
+
+.progress-7 {
+  border-radius: 73px;
+  height: 146px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  transform: rotate(1.57deg);
+  width: 146px;
+}
+
+.bg {
+  background-color: #f4f6ff;
+  border-radius: 29.5px;
+  height: 59px;
+  left: 46px;
+  position: absolute;
+  top: 45px;
+  width: 59px;
+}
+
+.icon-1 {
+  height: 26px;
+  left: 63px;
+  position: absolute;
+  top: 61px;
+  width: 26px;
+}
+
+.info {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 84px;
+  width: 230px;
+}
+
+.title-10 {
+  align-items: flex-start;
+  display: flex;
+  height: 32px;
+  margin-left: 2.5px;
+  width: 225px;
+}
+
+.name-8 {
+  letter-spacing: 0.44px;
+  line-height: 32px;
+  margin-top: -1px;
+  text-align: center;
+  white-space: nowrap;
+  width: 225px;
+}
+
+.overlap-group2-1 {
+  height: 51px;
+  position: relative;
+  width: 230px;
+}
+
+.value-14 {
+  align-items: flex-start;
+  display: flex;
+  gap: 6px;
+  height: 36px;
+  left: 52px;
+  position: absolute;
+  top: 0;
+  width: 125px;
+}
+
+.amount {
+  height: 36px;
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-top: -1px;
+  min-width: 81px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.indicator-6 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 26px;
+  width: 38px;
+}
+
+.arrow-up {
+  height: 24px;
+  width: 14px;
+}
+
+.percent-1 {
+  height: 28px;
+  letter-spacing: 0.44px;
+  line-height: 20px;
+  margin-top: -3px;
+  text-align: center;
+  width: 24px;
+}
+
+.detail {
+  left: 0;
+  letter-spacing: 0.40px;
+  line-height: 16px;
+  opacity: 0.6;
+  position: absolute;
+  text-align: center;
+  top: 35px;
+  white-space: nowrap;
+  width: 230px;
+}
+
+.table {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  height: 85px;
+  overflow: hidden;
+  position: relative;
+  width: 290px;
+}
+
+.row {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  width: 230px;
+}
+
+.name-9 {
+  letter-spacing: 0.44px;
+  line-height: 20px;
+  margin-top: -0.5px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.amount-1 {
+  letter-spacing: 0.44px;
+  line-height: 20px;
+  margin-top: -1px;
+  opacity: 0.6;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.overlap-group-13 {
+  height: 21px;
+  position: relative;
+  width: 68px;
+}
+
+.column {
+  background-color: var(--link-water);
+  border-radius: 1px;
+  height: 21px;
+  left: 0;
+  opacity: 0.7;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+.column-1 {
+  background-color: var(--link-water);
+  border-radius: 1px;
+  height: 21px;
+  left: 19px;
+  opacity: 0.7;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.column-2 {
+  background-color: var(--link-water);
+  border-radius: 1px;
+  height: 21px;
+  left: 35px;
+  opacity: 0.7;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.column-3 {
+  background-color: var(--link-water);
+  border-radius: 1px;
+  height: 21px;
+  left: 51px;
+  opacity: 0.7;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+.chart-12 {
+  height: 8px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 67px;
+}
+

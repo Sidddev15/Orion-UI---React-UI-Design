@@ -1,0 +1,23 @@
+.line {
+  align-items: flex-start;
+  background-color: var(--true-v);
+  border-radius: 100px;
+  display: flex;
+  min-width: 1593px;
+}
+
+.overlap-group-2 {
+  align-items: flex-start;
+  background-color: #ff708b;
+  border-radius: 100px;
+  display: flex;
+  min-width: 724px;
+}
+
+.yellow {
+  background-color: #ffa63e;
+  border-radius: 100px;
+  height: 6px;
+  width: 240px;
+}
+

@@ -1,0 +1,213 @@
+.data {
+  align-items: center;
+  display: flex;
+  height: 286px;
+  left: 97px;
+  min-width: 893px;
+  position: absolute;
+  top: 24px;
+}
+
+.bubble {
+  align-self: flex-end;
+  background-color: #9352e5cc;
+  border-radius: 22.09px/22px;
+  box-shadow: 0px 3.02px 2.21px #840de20a , 0px 7.25px 5.32px #840de20f , 0px 13.65px 10.02px #840de212 , 0px 24.35px 17.87px #840de215 , 0px 45.54px 33.42px #840de21a , 0px 109px 80px #840de224;
+  height: 44px;
+  margin-bottom: 28px;
+  width: 44px;
+}
+
+.bubble-1 {
+  background-color: var(--medium-purple);
+  border-radius: 8.03px/8px;
+  height: 16px;
+  margin-left: 33px;
+  margin-top: 52.0px;
+  width: 16px;
+}
+
+.overlap-group5 {
+  height: 286px;
+  margin-left: 9px;
+  position: relative;
+  width: 368px;
+}
+
+.bubble-2 {
+  background-color: var(--medium-purple);
+  border-radius: 12.55px/12.5px;
+  height: 25px;
+  left: 343px;
+  position: absolute;
+  top: 250px;
+  width: 25px;
+}
+
+.overlap-group4 {
+  height: 286px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 362px;
+}
+
+.bubble-3 {
+  background-color: #f9e000;
+  border-radius: 47.19px/47px;
+  height: 94px;
+  left: 112px;
+  mix-blend-mode: multiply;
+  opacity: 0.8;
+  position: absolute;
+  top: 192px;
+  width: 94px;
+}
+
+.bubble-4 {
+  background-color: var(--gargoyle-gas);
+  border-radius: 17.07px/17px;
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 92px;
+  width: 34px;
+}
+
+.overlap-group-11 {
+  align-items: flex-start;
+  background-color: #ff505dcc;
+  border-radius: 73.29px/73px;
+  box-shadow: 0px 2.32px 1.85px #ff2b2b0a , 0px 5.39px 4.31px #ff2b2b0e , 0px 9.68px 7.74px #ff2b2b12 , 0px 16.06px 12.85px #ff2b2b15 , 0px 26.45px 21.16px #ff2b2b18 , 0px 46.23px 36.99px #ff2b2b1c , 0px 100px 80px #ff2b2b26;
+  display: flex;
+  height: 146px;
+  justify-content: flex-end;
+  left: 17px;
+  min-width: 147px;
+  padding: 58px 39.5px;
+  position: absolute;
+  top: 109px;
+}
+
+.value-12 {
+  letter-spacing: 0.11px;
+  line-height: normal;
+  min-height: 28px;
+  text-align: center;
+  width: 67px;
+}
+
+.overlap-group2 {
+  background-color: var(--blueberry);
+  border-radius: 123.99px/123.5px;
+  box-shadow: 0px 3.02px 2.21px #840de20a , 0px 7.25px 5.32px #840de20f , 0px 13.65px 10.02px #840de212 , 0px 24.35px 17.87px #840de215 , 0px 45.54px 33.42px #840de21a , 0px 109px 80px #840de224;
+  height: 247px;
+  left: 114px;
+  position: absolute;
+  top: 0;
+  width: 248px;
+}
+
+.value-13 {
+  left: 90px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 105px;
+  width: 67px;
+}
+
+.text {
+  left: 98px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 131px;
+  width: 52px;
+}
+
+.bubble-5 {
+  background-color: var(--blueberry);
+  border-radius: 12.55px/12.5px;
+  height: 25px;
+  margin-left: 90px;
+  margin-top: 77.0px;
+  width: 25px;
+}
+
+.bubble-6 {
+  background-color: var(--medium-purple);
+  border-radius: 8.03px/8px;
+  height: 16px;
+  margin-bottom: 32.0px;
+  margin-left: 13px;
+  width: 16px;
+}
+
+.overlap-group3-1 {
+  align-self: flex-end;
+  height: 168px;
+  margin-bottom: 24px;
+  margin-left: 11px;
+  position: relative;
+  width: 191px;
+}
+
+.bubble-7 {
+  background-color: #ff737d;
+  border-radius: 38.65px/38.5px;
+  box-shadow: 0px 3.02px 2.21px #e20d9409 , 0px 7.25px 5.32px #e20d940e , 0px 13.65px 10.02px #e20d9411 , 0px 24.35px 17.87px #e20d9414 , 0px 45.54px 33.42px #e20d9418 , 0px 109px 80px #e20d9421;
+  height: 77px;
+  left: 113px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 91px;
+  width: 77px;
+}
+
+.bubble-8 {
+  background-color: #695dfbcc;
+  border-radius: 34.13px/34px;
+  box-shadow: 0px 3.02px 2.21px #840de20a , 0px 7.25px 5.32px #840de20f , 0px 13.65px 10.02px #840de212 , 0px 24.35px 17.87px #840de215 , 0px 45.54px 33.42px #840de21a , 0px 109px 80px #840de224;
+  height: 68px;
+  left: 76px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0;
+  width: 68px;
+}
+
+.overlap-group1-2 {
+  align-items: flex-start;
+  background-color: var(--gargoyle-gas);
+  border-radius: 64.76px/64.5px;
+  display: flex;
+  height: 129px;
+  left: 0;
+  min-width: 130px;
+  padding: 50px 31.1px;
+  position: absolute;
+  top: 39px;
+}
+
+.bubble-9 {
+  background-color: var(--medium-purple);
+  border-radius: 8.03px/8px;
+  height: 16px;
+  margin-left: 10px;
+  margin-top: 126.0px;
+  width: 16px;
+}
+
+.bubble-10 {
+  align-self: flex-end;
+  background-color: var(--medium-purple);
+  border-radius: 22.09px/22px;
+  height: 44px;
+  margin-bottom: 23px;
+  margin-left: 5px;
+  width: 44px;
+}
+

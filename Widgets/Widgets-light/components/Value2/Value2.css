@@ -1,0 +1,41 @@
+.value-17 {
+  align-items: flex-start;
+  display: flex;
+  gap: 6px;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 132px;
+}
+
+.amount-13 {
+  height: 32px;
+  letter-spacing: 0.15px;
+  line-height: 32px;
+  margin-top: -1px;
+  min-width: 75px;
+  white-space: nowrap;
+}
+
+.indicator-9 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  width: 51px;
+}
+
+.arrow-up-3 {
+  align-self: center;
+  height: 24px;
+  width: 14px;
+}
+
+.percent-6 {
+  height: 26px;
+  letter-spacing: 0.44px;
+  line-height: 20px;
+  margin-top: -1px;
+  width: 37px;
+}
+

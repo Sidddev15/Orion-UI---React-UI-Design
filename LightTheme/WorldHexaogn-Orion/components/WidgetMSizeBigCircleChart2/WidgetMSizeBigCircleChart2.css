@@ -1,0 +1,43 @@
+.widget-m-size-big-circle-chart-1 {
+  align-items: center;
+  border-radius: 10px;
+  display: flex;
+  gap: 18px;
+  height: 88px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 675px;
+  width: 220px;
+}
+
+.overlap-group-1 {
+  border-radius: 44px;
+  height: 88px;
+  position: relative;
+  width: 88px;
+}
+
+.percent-1 {
+  left: 13px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 25px;
+  width: 62px;
+}
+
+.span-7 {
+  letter-spacing: 0;
+}
+
+.overlap-group-item-1 {
+  border-radius: 44px;
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 88px;
+}
+

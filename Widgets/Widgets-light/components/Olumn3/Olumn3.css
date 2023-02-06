@@ -1,0 +1,46 @@
+.olumn-7 {
+  align-items: flex-start;
+  border-radius: 100px;
+  display: flex;
+  height: 6px;
+  left: 48px;
+  min-width: 40px;
+  position: absolute;
+  top: 1px;
+  transform: rotate(1.57deg);
+}
+
+.overlap-group-7 {
+  height: 6px;
+  position: relative;
+  width: 40px;
+}
+
+.background-5 {
+  background-color: var(--link-water);
+  border-radius: 100px;
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 40px;
+}
+
+.progress-6 {
+  background-color: var(--rajah);
+  border-radius: 100px;
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.olumn-7.olumn-8 {
+  left: 72px;
+}
+
+.olumn-7.olumn-9 {
+  left: 84px;
+}
+

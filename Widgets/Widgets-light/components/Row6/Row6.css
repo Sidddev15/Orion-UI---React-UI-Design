@@ -1,0 +1,33 @@
+.table-2-item-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  height: 16px;
+  position: relative;
+  width: 223px;
+}
+
+.name-21 {
+  letter-spacing: 0.40px;
+  line-height: 16px;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.amount-14 {
+  letter-spacing: 0.40px;
+  line-height: 16px;
+  margin-top: -1px;
+  opacity: 0.6;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.summary-3 {
+  letter-spacing: 0.40px;
+  line-height: 16px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+

@@ -1,0 +1,23 @@
+.info-9 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: -1px;
+  height: 56px;
+  width: 102px;
+}
+
+.amount-5 {
+  letter-spacing: 0.44px;
+  line-height: 32px;
+  margin-top: -1px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.detail-2 {
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+

@@ -1,0 +1,43 @@
+.table-indicator-table-item-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 6px;
+  width: 230px;
+}
+
+.summary {
+  align-items: flex-start;
+  display: flex;
+  gap: 6px;
+  height: 20px;
+  width: 210px;
+}
+
+.name-6 {
+  letter-spacing: 0.44px;
+  line-height: 20px;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.amount-4 {
+  letter-spacing: 0.44px;
+  line-height: 20px;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.summary-1 {
+  letter-spacing: 0.44px;
+  line-height: 20px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.status {
+  height: 20px;
+  width: 14px;
+}
+

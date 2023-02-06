@@ -1,0 +1,28 @@
+.percent-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 29px;
+  left: 13px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.percent-3 {
+  height: 29px;
+  letter-spacing: 0.15px;
+  line-height: 29px;
+  margin-top: -1px;
+  min-width: 23px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.text-1 {
+  height: 20px;
+  letter-spacing: 0.22px;
+  line-height: 16.2px;
+  margin-top: -1px;
+  width: 9px;
+}
+

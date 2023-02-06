@@ -1,0 +1,16 @@
+.icon-14 {
+  align-items: flex-end;
+  background-color: var(--true-v);
+  border-radius: 20px;
+  display: flex;
+  height: 70px;
+  justify-content: flex-end;
+  min-width: 70px;
+  padding: 18px;
+}
+
+.users-1 {
+  height: 32px;
+  width: 32px;
+}
+
